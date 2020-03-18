@@ -1,4 +1,4 @@
-class QrsctlAT3020180423 < Formula
+class Qrsctl < Formula
     desc "A simple command-line auxiliary tool implemented based on Qiniu Cloud Storage API"
     homepage "https://developer.qiniu.com/kodo/tools/1300/qrsctl"
     url "https://raw.githubusercontent.com/silenceu/homebrew-qiniu/master/archive/qrsctl-v3.0.20180423"
