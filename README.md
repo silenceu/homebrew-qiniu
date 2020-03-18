@@ -16,6 +16,7 @@ brew install https://raw.githubusercontent.com/silenceu/homebrew-qiniu/master/Fo
 | formula | version |
 | ---- | ---- |
 | qshell | 2.4.1 |
+| qrsctl | latest |
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
