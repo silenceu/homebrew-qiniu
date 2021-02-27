@@ -8,7 +8,7 @@ class QshellAT242 < Formula
 
     def install
         system "mv qshell-darwin-x64-v2.4.2 qshell"
-            bin.install "qshell"
+        bin.install "qshell"
     end
 
     test do

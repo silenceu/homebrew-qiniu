@@ -1,4 +1,4 @@
-class Qshell < Formula
+class QshellAT243 < Formula
     desc "Command-line tool to facilitate developers to test and use Qiniu API services"
     homepage "https://github.com/qiniu/qshell"
     url "https://devtools.qiniu.com/qshell-v2.4.3-darwin-amd64.tar.gz"
@@ -14,4 +14,4 @@ class Qshell < Formula
     test do
         system "#{bin}/qshell", "-v"
     end
-end
+en
