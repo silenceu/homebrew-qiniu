@@ -7,7 +7,6 @@ class Qshell < Formula
     bottle :unneeded
 
     def install
-        system "mv qshell-darwin-x64-v2.4.2 qshell"
         bin.install "qshell"
     end
 
